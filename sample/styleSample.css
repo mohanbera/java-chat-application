@@ -1,0 +1,18 @@
+
+.color-label1{
+    -fx-background-color: #F7CA88;
+    -fx-background-radius: 20;
+    -fx-text-alignment:left;
+}
+
+.color-label2{
+    -fx-background-color: #AB4642;
+    -fx-background-radius: 20;
+}
+
+.color-label3{
+    -fx-background-color: #A1B56C;
+    -fx-background-radius: 20;
+    -fx-text-alignment:left;
+}
+
